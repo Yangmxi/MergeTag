@@ -19,7 +19,8 @@ That's easy to use. Just use `<merge/>` instead of `<RelativeLayout>`
 
 ### Improtant
 `<merge/>` can NOT use inflater.inflate(id, null). Because the merge MUST give a parent `Layout`
-the mean of it is merge the xml and Layout (RelativeLayout or LinearLayout)
+
+The mean of it is merge the xml and Layout (RelativeLayout or LinearLayout)
 
 ```java
     private void initView(Context context) {
