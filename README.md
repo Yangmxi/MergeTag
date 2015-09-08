@@ -7,11 +7,11 @@ MergeTag is a demo for using <merge/> in xml, to avoid Layout nested a Layout wh
 ##sample
 >Not using `<merge/>`:
 
-![](https://github.com/Yangmxi/MergeTag/raw/master/ImageCache/NotMerge.png) 
+![](https://github.com/Yangmxi/MergeTag/raw/master/ImageCache/afterMerge.png) 
 
 >After using `<merge/>`
 
-![](https://github.com/Yangmxi/MergeTag/raw/master/ImageCache/afterMerge.png) 
+![](https://github.com/Yangmxi/MergeTag/raw/master/ImageCache/NotMerge.png) 
 
 ##usage
 
